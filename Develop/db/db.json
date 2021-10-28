@@ -3,25 +3,5 @@
         "title": "Test Title",
         "text": "Test text",
         "id": 0
-    },
-    {
-        "title": "Save this",
-        "text": "New note",
-        "id": "3"
-    },
-    {
-        "title": "Take a shower",
-        "text": "I should probably shower soon.",
-        "id": "12586671-9281-48a5-b367-7de84bb5e656"
-    },
-    {
-        "title": "Hey Another Note",
-        "text": "Will the deleted note be removed?",
-        "id": "78cd240e-36d3-401f-b898-c825062d860e"
-    },
-    {
-        "title": "Will this page",
-        "text": "update properly?  We'll have to wait and see.",
-        "id": "90feebaa-9f63-4dc7-83b4-02cc2f79b2bd"
     }
 ]
