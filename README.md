@@ -2,7 +2,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ![I merely played my part.](./Develop/public/assets/images/vendetta_image1.PNG)
+  ![I merely played my part.](./public/assets/images/vendetta_image1.PNG)
 
   ## Description
   This application allows the user to create and save notes consisting of a title and a body.  The saved notes can be accessed by clicking on the note title (that note will become the active note), and the notes can be deleted when no longer needed.
